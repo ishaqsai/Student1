@@ -16,6 +16,8 @@ public class JavaA {
      */
     public static void main(String[] args) {
     System.out.println("HI my name is Saima");
+        System.out.println("HI my name is Saima");
+
         }
     
 }
